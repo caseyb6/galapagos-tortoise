@@ -24,9 +24,10 @@ nav > ul > li {
   border-radius: 4px;
 }
 img.home {
-  width: 120px;
+  width: 15%;
   height: auto;
   background: none;
+  display: inline-block;
 }
 h1 {
   margin-top: 2%;
