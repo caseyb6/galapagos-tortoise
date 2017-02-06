@@ -12,7 +12,8 @@ a:hover {
   text-decoration: none;
 }
 #content {
-  padding: 2%
+  padding: 2%;
+  display: inline-block;
 }
 nav > ul > li {
   float: left;
@@ -36,6 +37,7 @@ h2 {
   color: #50514F;
 }
 #main-nav {
-   margin: auto;
-   display: inline-block;
+  margin: auto;
+  position: relative;
+  width: 50%;
 }
