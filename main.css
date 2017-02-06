@@ -16,4 +16,5 @@ a:hover {
 }
 nav > ul > li {
   float: right;
+  list-style-type: none;
 }
