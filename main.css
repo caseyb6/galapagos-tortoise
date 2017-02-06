@@ -16,9 +16,10 @@ a:hover {
 }
 nav > ul > li {
   float: left;
-  margin: auto;
+  margin: 5px;
   list-style-type: none;
   background-color: #50514F;
+  padding: 8px;
 }
 nav > ul > li > a > img {
   background-color: none;
