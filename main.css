@@ -23,7 +23,7 @@ nav > ul > li {
   border-radius: 4px;
 }
 nav > ul > li.img {
-  background-color: none;
+  background: none;
   width: 50px;
   height: auto;
 } 
