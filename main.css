@@ -14,3 +14,6 @@ a:hover {
 #content {
   padding: 2%
 }
+nav > ul > li {
+  float: right;
+}
