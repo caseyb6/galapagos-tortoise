@@ -35,3 +35,7 @@ h1 {
 h2 {
   color: #50514F;
 }
+#main-nav {
+   margin: auto;
+   display: inline-block;
+}
