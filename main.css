@@ -6,3 +6,6 @@ body {
 a {
   color: #7DDF64
 }
+a:hover {
+  color: #247BA0
+}
