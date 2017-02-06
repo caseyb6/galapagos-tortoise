@@ -19,9 +19,9 @@ nav > ul > li {
   float: left;
   margin: 5px;
   list-style-type: none;
-  background-color: #50514F;
   padding: 8px;
   border-radius: 4px;
+  font-size: 1.4em;
 }
 img.home {
   width: 15%;
