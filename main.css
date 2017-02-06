@@ -4,8 +4,13 @@ body {
   word-spacing: .2em;
 }
 a {
-  color: #7DDF64
+  color: #7DDF64;
+  text-decoration: none;
 }
 a:hover {
-  color: #247BA0
+  color: #247BA0;
+  text-decoration: none;
+}
+#content {
+  padding: 2%
 }
