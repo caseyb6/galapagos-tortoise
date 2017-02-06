@@ -40,6 +40,6 @@ h2 {
   width: 50%;
   padding: 10px;
 }
-nav#main-nav {
+#main-nav nav, ul {
   display: inline-block;
 }
