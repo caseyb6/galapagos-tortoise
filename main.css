@@ -67,7 +67,7 @@ h2 {
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
-.incontent-left img:hover {
+.incontent-left figure:hover img {
 -webkit-transform: scale(1.3);
 	transform: scale(1.3);
 }
