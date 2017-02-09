@@ -61,4 +61,8 @@ h2 {
 img.incontent-left {
   float: left;
   margin: 0px 12px 12px 0px;
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
 }
