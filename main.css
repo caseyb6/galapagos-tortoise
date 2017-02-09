@@ -23,7 +23,7 @@ nav > ul > li {
   border-radius: 4px;
   font-size: 1.4em;
 }
-img.home {
+.logo {
   width: 15%;
   height: auto;
   background: none;
@@ -34,6 +34,7 @@ h1 {
   text-align: center;
   font-size: 3em;
   letter-spacing: .1em;
+  text-decoration: underline;
 }
 h2 {
   color: #50514F;
