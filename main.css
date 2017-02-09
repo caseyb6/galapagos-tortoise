@@ -16,7 +16,7 @@ a:hover {
   margin: auto;
 }
 nav > ul > li {
-  float: right;
+  float: left;
   list-style-type: none;
   padding: 12px;
   font-size: 1.4em;
