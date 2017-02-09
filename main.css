@@ -59,17 +59,19 @@ h1 {
 h2 {
   color: #50514F;
 }
-.incontent-left figure img {
+img.incontent-left {
   float: left;
   margin: 0px 12px 12px 0px;
+}
+.hover-effect figure img {
   -webkit-transform: scale(1);
   transform: scale(1);
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
-.incontent-left figure:hover img {
--webkit-transform: scale(1.3);
-	transform: scale(1.3);
+.hover-effect figure:hover img {
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
 }
 a {
   color: #7DDF64;
