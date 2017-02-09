@@ -24,6 +24,9 @@ body {
   display: inline-block;
   padding: 0;
 }
+#main-nav a {
+  border: none;
+}
 nav > ul > li {
   float: left;
   list-style-type: none;
@@ -77,6 +80,11 @@ img.incontent-left {
 a {
   color: #7DDF64;
   text-decoration: none;
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-color: #C3B299;
 }
 a:hover {
   color: #247BA0;
