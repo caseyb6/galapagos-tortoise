@@ -81,3 +81,6 @@ a:hover {
   color: #247BA0;
   text-decoration: none;
 }
+.hover-effect figure {
+  margin: 0
+}
