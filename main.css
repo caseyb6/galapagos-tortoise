@@ -33,6 +33,7 @@ body {
   border: none;
   text-decoration: underline;
   padding: 8px;
+  transition: .3s;
 }
 nav > ul > li {
   float: left;
@@ -45,7 +46,6 @@ nav > ul > li:hover {
 }
 nav > ul > li:hover a {
   color: #247BA0;
-  transition: color 0.3s ease;
 }
 .logo {
   width: 100px;
@@ -84,6 +84,7 @@ img.incontent-left {
 }
 a {
   color: #7DDF64;
+  transition: .3s;
   text-decoration: none;
   border-bottom-style: dotted;
   border-bottom-width: thin;
