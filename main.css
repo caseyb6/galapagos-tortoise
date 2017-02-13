@@ -48,7 +48,7 @@ nav > ul > li:hover a {
   transition: color 0.3s ease;
 }
 .logo {
-  width: 150px;
+  width: 100px;
   height: auto;
   background: none;
   display: inline-block;
