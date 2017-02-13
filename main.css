@@ -43,7 +43,7 @@ nav > ul > li {
 }
 nav > ul > li:hover {
   background: rgba(195, 178, 153, 0.2);
-  transition: .3s;
+  transition: background .5s;
 }
 nav > ul > li:hover a {
   color: #247BA0;
