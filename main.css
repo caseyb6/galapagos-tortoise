@@ -28,6 +28,8 @@ body {
 }
 #main-nav a {
   border: none;
+  text-decoration: underline;
+  padding: 8px;
 }
 nav > ul > li {
   float: left;
