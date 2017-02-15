@@ -103,3 +103,6 @@ a:hover {
 .hover-effect figure {
   margin: 0
 }
+img {
+  margin: 0 4px 4px 0;
+}
