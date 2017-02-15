@@ -87,6 +87,7 @@ img.incontent-left {
 }
 a {
   color: #7DDF64;
+  font-weight: bold;
   transition: .3s;
   text-decoration: none;
   border-bottom-style: dotted;
