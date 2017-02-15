@@ -10,6 +10,7 @@
 .logo {
     display: block;
     margin: auto;
+    width: 75px;
 }
 nav > ul > li {
     padding: 0 10px;
