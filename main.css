@@ -34,6 +34,7 @@ body {
 #main-nav a {
   border: none;
   text-decoration: underline;
+  font-weight: normal;
   padding: 8px;
   transition: .3s;
 }
