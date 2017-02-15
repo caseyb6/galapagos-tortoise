@@ -22,6 +22,10 @@ nav > ul > li {
 	
 /* Content Styling */
 
+h1 {
+    font-size: 2em;
+}
+
 p {
     clear: both;
 }
