@@ -21,10 +21,11 @@ body {
   text-align: center;
   border-bottom-style: solid;
   border-bottom-width: thin;
-  background-color: white;
+  background-color: #ffffff;
   top: 0;
   right: 0;
   z-index: 1000;
+  padding: 15px 0;
 }
 #main-nav nav, ul {
   display: inline-block;
